@@ -1,6 +1,6 @@
 # Bautista Pelossi Schweizer
 
-Estudiante avanzado de Licenciatura en Ciencia de Datos en la [Universidad Nacional del Litoral](https://www.unl.edu.ar/) (Santa Fe, Argentina), con ciclo superior orientado a PLN y aplicaciones estadísticas en Economía y Finanzas. Actualmente en intercambio académico en la [Universidad Complutense de Madrid](https://www.ucm.es/) — Facultad de Informática.
+Estudiante avanzado de Licenciatura en Ciencia de Datos en la [Universidad Nacional del Litoral](https://www.unl.edu.ar/) (Santa Fe, Argentina), con ciclo superior orientado a PLN y aplicaciones estadísticas en Economía y Finanzas. Actualmente en intercambio académico en la [Universidad Complutense de Madrid](https://www.ucm.es/)
 
 Me interesa las aplicaciones del Aprendizaje Profundo (Procesamiento de Lenguaje Natural) y el Crecimiento Económico.
 
