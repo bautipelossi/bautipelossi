@@ -46,31 +46,4 @@ Análisis econométrico de los determinantes del crecimiento argentino en el per
 
 ---
 
-## Educación
-
-**Licenciatura en Ciencia de Datos** — Universidad Nacional del Litoral · 2023–presente  
- Orientación: PLN y aplicaciones estadísticas en Economía y Finanzas
-
-**Intercambio Académico** — Universidad Complutense de Madrid, Facultad de Informática · 1° semestre 2026  
-Asignaturas: PLN · Tratamiento de Datos Masivos (PySpark) · Proyecto de Datos II (MLOps) · Crecimiento Económico · Métodos Econométricos
-
----
-
-## Experiencia
-
-**Científico de Datos Pasante** — Ministerio de Salud de la Nación · Instituto Dr. Emilio Coni · 2024  
-Observatorio Nacional de Mortalidad por Enfermedades Respiratorias: Data Warehousing, base de datos relacional, ajuste de tasas por edad, geocodificación inversa. Stack: Python · Tableau.
-
----
-
-## Stack técnico
-
-```
-PLN & DL      Transformers · LLMs · embeddings · RAG · spaCy · NLU/NLG
-ML            Gradient descent · backprop · SVMs · Random Forest · AdaBoost · PCA
-Big Data      PySpark · pipelines distribuidos · MLOps · deployment
-Programación  Python (pandas, scikit-learn, PyTorch) · Git/GitHub
-Econometría   MCO · ARIMA · cointegración · Granger · series temporales
-```
-
 *Santa Fe · Madrid*
