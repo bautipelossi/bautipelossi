@@ -2,7 +2,7 @@
 
 Estudiante avanzado de Licenciatura en Ciencia de Datos en la [Universidad Nacional del Litoral](https://www.unl.edu.ar/) (Santa Fe, Argentina), con ciclo superior orientado a PLN y aplicaciones estadísticas en Economía y Finanzas. Actualmente en intercambio académico en la [Universidad Complutense de Madrid](https://www.ucm.es/) — Facultad de Informática.
 
-Me interesa el cruce entre **modelos de lenguaje**, **recuperación de información** y **economía del desarrollo**.
+Me interesa las aplicaciones del Aprendizaje Profundo (Procesamiento de Lenguaje Natural) y el Crecimiento Económico.
 
 📬 [LinkedIn](https://www.linkedin.com/in/bautistapelossi/) · [GitHub](https://github.com/bautipelossi)
 
