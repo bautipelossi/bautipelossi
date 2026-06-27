@@ -31,5 +31,3 @@ Pipeline de recuperación de información con tres motores: TF-IDF léxico, bús
 Análisis econométrico de los determinantes del crecimiento argentino (1900–2023). Modelos de series temporales, cointegración, causalidad de Granger y test de Chow para el quiebre estructural de 1930.
 
 ---
-
-*Santa Fe · Madrid*
