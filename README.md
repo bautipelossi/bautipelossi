@@ -26,7 +26,7 @@ Information retrieval pipeline with three engines: lexical TF-IDF, dense semanti
 ---
 
 ### 📊 The Argentine Paradox: An Empirical Analysis of Economic Growth
-> Econometric Methods — UCM, 2026 · [Read the paper](https://drive.google.com/file/d/1FPVKA4pqANJ_jzrl22yWZDsE7q5RLPfu/view?usp=sharing)
+> Econometric Methods — UCM, 2026 · [Read the paper](https://drive.google.com/file/d/1Wzh_mDdAjPwpaC72X3IMaTFKJe84TWen/view?usp=sharing)
 
 Econometric analysis of the determinants of Argentine growth (1900–2023). Time series models, cointegration, Granger causality, and a Chow test for the 1930 structural break.
 
