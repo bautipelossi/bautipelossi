@@ -10,6 +10,12 @@ I'm interested in applications of Deep Learning (Natural Language Processing) an
 
 ## Featured Projects
 
+### 🧠 Phase Coupling Decomposition for iEEG Speech Artifacts · [`bci-pcd`](https://github.com/bautipelossi/bci-pcd)
+> Brain–Computer Interfaces — UNL, 2026
+
+Open-source Python implementation of Phase Coupling Decomposition (PCD), a supervised spatial filter that removes the acoustic artifact induced by speech in intracranial recordings. Modular pipeline (artifact band estimation, SSD via MNE-Python, phase-coupling optimization) with a `fit`/`transform`/`apply` API, validated stage by stage against the authors' MATLAB code and on simulated data with known ground truth.
+
+---
 
 ### 🤖 Transformer-based Causal LLM · [`fdi-pln2612/p5`](https://github.com/bautipelossi/fdi-pln2612/tree/main/p5)
 > Natural Language Processing — UCM, 2026
